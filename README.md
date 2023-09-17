@@ -1,6 +1,6 @@
 # 💻 Bem-vindo ao Meu Perfil! 🚀  
 
-Olá, meu nome é Ricardo, um apaixonado por tecnologia desde criança. Sou formado como Técnico em Informática e estou prestes a concluir minha graduação em Bacharel em Sistemas de Informação. Tenho experiências acadêmicas em desenvolvimento de software e este é o meu espaço para compartilhar meus projetos e aprendizados. Fique à vontade para explorar e entrar em contato comigo para qualquer dúvida ou sugestão. Obrigado por visitar!
+Olá, meu nome é Ricardo, sou um apaixonado por tecnologia desde criança. Sou formado como Técnico em Informática e estou prestes a concluir minha graduação em Bacharel em Sistemas de Informação. Tenho experiências acadêmicas em desenvolvimento de software e este é o meu espaço para compartilhar meus projetos e aprendizados. Fique à vontade para explorar e entrar em contato comigo para qualquer dúvida ou sugestão. Obrigado por visitar!
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/ricardomagalhaespita/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin-right: 5px;">
